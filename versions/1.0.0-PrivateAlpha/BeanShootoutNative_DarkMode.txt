@@ -1,3 +1,5 @@
+NOTE: This license only applies to Windows versions of the game.
+
 https://github.com/Raidenxd2/cookieclicker2.mp4/tree/open-source/Assets/_Project/BuildOutput/CustomExe/x64/ExecutableSourcesAndSymbols/src/BeanShootoutNative_DarkMode
 or available where this game is installed under BeanShootout_Data/ExecutableSourcesAndSymbols/src/BeanShootoutNative_DarkMode
 
