@@ -1,0 +1,8 @@
+Custom Unity packages used:
+Input System: internal
+Netcode for GameObjects: internal
+Unity Transport: internal
+Unity UI: internal
+Performance testing API: https://github.com/Raidenxd2/com.unity.test-framework.performance_empty
+Scriptable Render Pipeline Core (branch: 6000.3.0f1): https://github.com/Raidenxd2/com.unity.render-pipelines.core/tree/6000.3.0f1
+Universal Render Pipeline (branch: 6000.3.0f1): https://github.com/Raidenxd2/com.unity.render-pipelines.universal/tree/6000.3.0f1
