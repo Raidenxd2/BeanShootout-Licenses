@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8076ca11-41fd-4b92-9aa0-29dc22ed5601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BeanShootout-Licenses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/AssetBundleAssetReference.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/BeanShootoutNative_DarkMode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/BetterPrefs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/CustomUnityPackages.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/Harmony.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/LitMotion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/SerialPackage.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/SharedShaders.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/URP Volumetric Fog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/URP-Mirrors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/UniTask.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/modio-unity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/unity.zallist.universal-simple-lit-shadergraph-target.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8076ca11-41fd-4b92-9aa0-29dc22ed5601" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765310394258</updated>
-      <workItem from="1765310395573" duration="774000" />
+      <workItem from="1765310395573" duration="882000" />
     </task>
     <servers />
   </component>
