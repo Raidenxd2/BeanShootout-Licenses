@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8076ca11-41fd-4b92-9aa0-29dc22ed5601" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/BeanShootoutNative_DarkMode.txt" beforeDir="false" afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/BeanShootoutNative_DarkMode.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/CustomUnityPackages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/versions/1.0.0-PrivateAlpha/CustomUnityPackages.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8076ca11-41fd-4b92-9aa0-29dc22ed5601" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765310394258</updated>
       <workItem from="1765310395573" duration="882000" />
-      <workItem from="1765318446980" duration="578000" />
+      <workItem from="1765318446980" duration="1224000" />
     </task>
     <servers />
   </component>
