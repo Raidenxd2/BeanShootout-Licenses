@@ -1,4 +1,5 @@
-https://github.com/modio/modio-unity
+https://github.com/modio/modio-unity/tree/legacy/v2
+License file: https://github.com/modio/modio-unity/blob/legacy/v2/Documentation/LICENSE.md
 
 MIT License
 
