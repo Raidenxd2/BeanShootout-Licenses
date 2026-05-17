@@ -8,3 +8,5 @@ Performance testing API: https://github.com/Raidenxd2/com.unity.test-framework.p
 Scriptable Render Pipeline Core (branch: 6000.3): https://github.com/Raidenxd2/Graphics-SRPCore
 Universal Render Pipeline (branch: 6000.3): https://github.com/Raidenxd2/Graphics-URP
 SharpZipLib: https://github.com/Raidenxd2/com.unity.sharp-zip-lib
+OpenXR Plugin: https://github.com/Raidenxd2/com.unity.xr.openxr
+XR Interaction Toolkit: https://github.com/Raidenxd2/com.unity.xr.interaction.toolkit
